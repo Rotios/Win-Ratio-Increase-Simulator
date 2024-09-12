@@ -1,0 +1,12 @@
+{
+    "name": "win-ratio-increase-simulator",
+    "version": "1.0.0",
+    "description": "",
+    "module": "src/simulator.js",
+    "scripts": {
+      "start": "node src/simulator.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "Apache-2.0"
+  }
